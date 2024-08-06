@@ -4,11 +4,10 @@ A simple To-Do List application built using the Flutter framework. This app demo
 
 
 ## Features
-
-Add, edit, and delete tasks.
-Manage task states with BLoC for scalable state management.
-Clean and intuitive user interface.
-Unit and widget tests to ensure code quality.
+-Add, edit, and delete tasks.
+-Manage task states with BLoC for scalable state management.
+-Clean and intuitive user interface.
+-Unit and widget tests to ensure code quality.
 
 ## Getting Started
 
@@ -42,13 +41,13 @@ flutter test
 
 
 ##Project Structure
-lib/: Contains the main application code.
-bloc/: BLoC related files (events, states, and bloc implementations).
-models/: Data models.
-repositories/: Data repositories.
-screens/: UI screens and widgets.
-utils/: Utility functions and constants.
-test/: Contains unit and widget tests.
+-lib/: Contains the main application code.
+-bloc/: BLoC related files (events, states, and bloc implementations).
+-models/: Data models.
+-repositories/: Data repositories.
+-screens/: UI screens and widgets.
+-utils/: Utility functions and constants.
+-test/: Contains unit and widget tests.
 
 
 
